@@ -1,2 +1,3 @@
-# Josue Chavez Duran - Selenium
-Josue Chavez Duran - Automation with Selenium
+# Selenium
+Autor: Josue Chavez Duran
+Title: Automation with Selenium
